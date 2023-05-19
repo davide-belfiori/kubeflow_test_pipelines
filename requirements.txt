@@ -5,4 +5,5 @@ matplotlib
 plotly
 kfp
 minio
+kserve
 joblib
